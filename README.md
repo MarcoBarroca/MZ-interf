@@ -1,2 +1,2 @@
 # MZ-interf
-Attempts to build a MZ interferometer analogue on Qiskit. Part of a Master's DIssertation.
+This project is a collection of jupyter notebooks where I built a Mach-Zender interferometer analogue on Qiskit. Part of a Master's Dissertation in physics.
